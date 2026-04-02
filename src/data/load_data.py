@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
 
-def prepare_dataset(parameters, data="../data/raw/abalone.data"):
+def prepare_dataset(data, parameters=''):
     """Docstring: briefly describe what the function does."""
 
     #TODO DESCRIBE FUNCTION

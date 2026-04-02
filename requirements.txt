@@ -1,3 +1,5 @@
 pandas
 #tensorflow
 scikit-learn
+keras_tuner
+tensorboard
